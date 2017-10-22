@@ -1,0 +1,21 @@
+{
+  "name": "unfolding-frontend-project",
+  "description": "Common base to easily unfold frontend project",
+  "main": "index.html",
+  "authors": [
+    "Shubat Maksim"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Shubat-Max/unfolding-frontend-project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize-css": "normalize.css#^7.0.0"
+  }
+}
